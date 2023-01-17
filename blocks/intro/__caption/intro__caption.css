@@ -1,0 +1,16 @@
+.intro__caption {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  position: relative;
+}
+
+.intro__caption::after {
+  content: "";
+  width: 132px;
+  height: 2px;
+  background: #707070;
+  position: absolute;
+  top: 50%;
+  margin: 0 0 0 30px;
+}

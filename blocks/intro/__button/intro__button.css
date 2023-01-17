@@ -1,0 +1,13 @@
+.intro__button {
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+  text-decoration: none;
+  display: inline-block;
+  padding: 16px 47px;
+  background: #24B47E;
+  border-radius: 4px;
+}
