@@ -31,4 +31,23 @@
 @import url(../blocks/bicycle/bicycle.css);
 /* import  workout */
 @import url(../blocks/workout/workout.css);
+@import url(../blocks/workout/__copyright/workout__copyright.css);
+@import url(../blocks/workout/__copyrights/workout__copyrights.css);
+@import url(../blocks/workout/__discription/workout__discription.css);
+@import url(../blocks/workout/__title/workout__title.css);
 /* import footer */
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__control-panel/footer__control-panel.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__form-container/footer__form-container.css);
+@import url(../blocks/footer/__form/footer__form.css);
+@import url(../blocks/footer/__input/footer__input.css);
+@import url(../blocks/footer/__label/footer__label.css);
+@import url(../blocks/footer/__light-icon/footer_light-icon.css);
+@import url(../blocks/footer/__moon-icon/footer__moon-icon.css);
+@import url(../blocks/footer/__switch-icon/footer__switch-icon.css);
+@import url(../blocks/footer/__switch-box/footer__switch-box.css);
+@import url(../blocks/footer/__icons-box/footer__icons-box.css);
+=======
+/* import footer */
+
