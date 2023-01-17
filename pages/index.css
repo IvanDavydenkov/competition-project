@@ -6,5 +6,15 @@
 /* import  header */
 
 /* import  bicycle */
+@import url(../blocks/bicycle/__filters-item/bicycle__filters-item.css);
+@import url(../blocks/bicycle/__filters/bicycle__filters.css);
+@import url(../blocks/bicycle/__header/bicycle__header.css);
+@import url(../blocks/bicycle/__list/bicycle__list.css);
+@import url(../blocks/bicycle/__name/bicycle__name.css);
+@import url(../blocks/bicycle/__photo/bicycle__photo.css);
+@import url(../blocks/bicycle/__title/bicycle__title.css);
+@import url(../blocks/bicycle/_active/bicycle__filters-item_active.css);
 @import url(../blocks/bicycle/bicycle.css);
+/* import  workout */
+@import url(../blocks/workout/workout.css);
 /* import footer */
