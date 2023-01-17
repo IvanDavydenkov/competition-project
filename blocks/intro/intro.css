@@ -1,0 +1,5 @@
+.intro {
+  display: flex;
+  justify-content: end;
+  padding: 20px 0 1200px 0;
+}
