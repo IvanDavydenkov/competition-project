@@ -1,3 +1,4 @@
 .bicycle {
-    padding: 120px  60px
+    box-sizing: border-box;
+    padding: 120px 60px
 }
