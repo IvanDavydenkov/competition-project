@@ -5,8 +5,6 @@
 @import url(../blocks/page/page.css);
 /* import  header */
 
-/* import profile */
-
-/* import elements/elements-list */
-
+/* import  bicycle */
+@import url(../blocks/bicycle/bicycle.css);
 /* import footer */
