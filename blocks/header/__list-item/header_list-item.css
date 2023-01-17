@@ -1,0 +1,12 @@
+.header__list-item {
+  color: #FFFFFF;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 18px;
+  text-decoration: none;
+  margin: 0 34px 0 0;
+}
+
+.header__list-item:last-child {
+  margin: 0;
+}
