@@ -3,7 +3,7 @@
 
 **GITHub  Page**
 
-* [Ссылка на github page](https://ivandavydenkov.github.io/mesto/)
+* [Ссылка на github page](https://ivandavydenkov.github.io/competition-project/)
 
 **Figma**
 
