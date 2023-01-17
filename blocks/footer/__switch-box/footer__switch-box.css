@@ -1,0 +1,9 @@
+.footer__switch-box {
+    background: #545454;
+    border-radius: 9999px;
+    width: 44px;
+    height: 24px;
+    display: flex;
+    justify-content: flex-end;
+    padding: 2px;
+}

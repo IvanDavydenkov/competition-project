@@ -1,0 +1,5 @@
+.footer__icons-box {
+    display: flex;
+    align-items: center;
+    gap: 22px;
+}
