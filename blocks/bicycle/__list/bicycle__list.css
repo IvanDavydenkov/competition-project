@@ -7,3 +7,9 @@
     gap: 30px;
     justify-content: center;
 }
+
+@media screen and (max-width:320px) {
+    .bicycle__list {
+        margin-top: 0;
+    }
+}
