@@ -2,3 +2,13 @@
     box-sizing: border-box;
     padding: 120px 60px
 }
+
+@media screen and (max-width: 320px) {
+
+    .bicycle {
+        padding: 0;
+        width: 284px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
