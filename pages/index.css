@@ -10,15 +10,30 @@
 /* import intro */
 @import url(../blocks/intro/intro.css);
 @import url(../blocks/intro/__button/intro__button.css);
+@import url(../blocks/intro/__button-text/intro__button-text.css);
 @import url(../blocks/intro/__caption/intro__caption.css);
 @import url(../blocks/intro/__image/intro__image.css);
 @import url(../blocks/intro/__line/intro__line.css);
 @import url(../blocks/intro/__movement-image/intro__movement-image.css);
-@import url(../blocks/intro/__movement/intro__movement.css);
 @import url(../blocks/intro/__subtitle/intro__subtitle.css);
 @import url(../blocks/intro/__title/intro__title.css);
 @import url(../blocks/intro/__wrapper/intro__wrapper.css);
 @import url(../blocks/intro/__movment-container/intro__movment-container.css);
+/* import quote */
+@import url(../blocks/quote/quote.css);
+@import url(../blocks/quote/__image/quote__image.css);
+@import url(../blocks/quote/__name/quote__name.css);
+@import url(../blocks/quote/__text/quote__text.css);
+@import url(../blocks/quote/__wrapper/quote__wrapper.css);
+@import url(../blocks/quote/_caption/quote__caption.css);
+/* import highway */
+@import url(../blocks/highway/highway.css);
+@import url(../blocks/highway/__image/highway__image.css);
+@import url(../blocks/highway/__slider/highway__slider.css);
+@import url(../blocks/highway/__swipe-left/highway__swipe-left.css);
+@import url(../blocks/highway/__swipe-right/highway__swipe-right.css);
+@import url(../blocks/highway/__text/highway__text.css);
+@import url(../blocks/highway/__title/highway__title.css);
 /* import  bicycle */
 @import url(../blocks/bicycle/__filters-item/bicycle__filters-item.css);
 @import url(../blocks/bicycle/__filters/bicycle__filters.css);
@@ -51,4 +66,7 @@
 @import url(../blocks/footer/__moon-icon/footer__moon-icon.css);
 @import url(../blocks/footer/__switch-icon/footer__switch-icon.css);
 @import url(../blocks/footer/__switch-box/footer__switch-box.css);
+
 @import url(../blocks/footer/__icons-box/footer__icons-box.css);
+
+

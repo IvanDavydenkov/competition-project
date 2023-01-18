@@ -1,9 +1,0 @@
-.intro__movement {
-  position: sticky;
-  top: 0;
-  padding: 20px 50px;
-  background: white;
-  max-width: max-content;
-  border-radius: 20px;
-  box-shadow: -20px 60px 220px rgba(0, 0, 0, 0.44);
-}
