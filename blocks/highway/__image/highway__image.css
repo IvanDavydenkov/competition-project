@@ -1,0 +1,7 @@
+.highway__image {
+  width: 100%;
+}
+
+.highway__image:last-child {
+  margin-left: 40px;
+}
