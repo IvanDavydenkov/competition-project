@@ -1,6 +1,6 @@
 .bicycle {
     box-sizing: border-box;
-    padding: 120px 60px
+    padding: 60px 120px
 }
 
 @media screen and (max-width: 320px) {
