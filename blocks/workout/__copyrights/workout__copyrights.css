@@ -5,9 +5,15 @@
     grid-area: workout__copyrights;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:1400px) {
     .workout__copyrights {
         order: 4;
+        margin-top: 55px;
     }
+}
 
+@media screen and (max-width:320px) {
+    .workout__copyrights {
+        margin: 0;
+    }
 }

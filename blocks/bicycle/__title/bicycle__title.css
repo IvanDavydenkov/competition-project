@@ -7,6 +7,19 @@
     letter-spacing: -.5px;
 }
 
+@media screen and (max-width: 1000px) {
+    .bicycle__title {
+        font-size: 45px;
+        line-height: 50px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .bicycle__title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
 
 @media screen and (max-width: 320px) {
     .bicycle__title {

@@ -3,5 +3,19 @@
         display: none;
     }
 
-    .bicycle__item {}
+    /* .bicycle__item {} */
+}
+
+@media screen and (max-width: 1350px) {
+    .bicycle__item:nth-child(3n) {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 850px) {
+    .bicycle__item:nth-child(2n) {
+        display: none;
+    }
+
 }

@@ -5,6 +5,12 @@
     border-radius: 20px;
 }
 
+@media screen and (max-width:450px) {
+    .bicycle__photo {
+        max-width: 254px;
+    }
+}
+
 @media screen and (max-width:320px) {
     .bicycle__photo {
         max-width: 254px;

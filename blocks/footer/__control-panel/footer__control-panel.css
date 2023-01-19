@@ -6,7 +6,7 @@
 
 @media screen and (max-width:320px) {
     .footer__control-panel {
-        align-items: baseline;
+        margin-top: 90px;
         justify-content: space-between;
         align-items: center;
     }

@@ -7,13 +7,25 @@
     line-height: 22px;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:850px) {
     .bicycle__name {
         position: relative;
-        top: -50px;
+        top: -39px;
         margin-top: 0;
         color: black;
         display: flex;
-        right: -50px;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width:320px) {
+    .bicycle__name {
+        position: relative;
+        top: -39px;
+        margin-top: 0;
+        color: black;
+        display: flex;
+        font-size: 14px;
+        line-height: 18px;
     }
 }

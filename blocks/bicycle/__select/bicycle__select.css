@@ -3,7 +3,7 @@
     height: 30px;
     border: 1px solid #E3E3E3;
     border-radius: 2px;
-    padding: 8px 12px;
+    padding: 7px 8px;
     font-size: 11px;
     line-height: 14px;
     font-weight: 600;
@@ -17,9 +17,15 @@
     cursor: pointer;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:1000px) {
     .bicycle__select {
         display: block;
     }
 
+}
+
+@media screen and (max-width:400px) {
+    .bicycle__select {
+        margin-top: 40px;
+    }
 }

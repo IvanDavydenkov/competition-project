@@ -3,9 +3,22 @@
     grid-area: workout__photo;
 }
 
+@media screen and (max-width:1400px) {
+    .workout__photo {
+        order: 3;
+
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .workout__photo {
+        max-width: 100%;
+    }
+
+}
+
 @media screen and (max-width:320px) {
     .workout__photo {
-        max-width: 284px;
         order: 1;
     }
 

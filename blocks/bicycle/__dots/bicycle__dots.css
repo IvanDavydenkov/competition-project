@@ -2,6 +2,15 @@
     display: none;
 }
 
+@media screen and (max-width: 1000px) {
+    .bicycle__dots {
+        display: flex;
+        position: relative;
+        gap: 10px;
+        top: -40px;
+        justify-content: center;
+    }
+}
 
 @media screen and (max-width: 320px) {
     .bicycle__dots {

@@ -5,11 +5,11 @@
     padding: 0;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .bicycle__header {
         flex-direction: column;
         align-items: flex-start;
         width: 284px;
-    }
 
+    }
 }

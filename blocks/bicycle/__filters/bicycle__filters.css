@@ -3,7 +3,7 @@
     gap: 40px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 1000px) {
     .bicycle__filters {
         display: none;
     }

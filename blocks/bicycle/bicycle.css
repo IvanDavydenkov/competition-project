@@ -3,6 +3,24 @@
     padding: 60px 120px;
 }
 
+@media screen and (max-width: 700px) {
+    .bicycle {
+        padding: 60px 18px;
+    }
+}
+
+/* @media screen and (max-width: 600px) {
+    .bicycle {
+        padding: 60px 60px;
+    }
+} */
+
+@media screen and (max-width: 500px) {
+    .bicycle {
+        padding: 60px 18px;
+    }
+}
+
 @media screen and (max-width: 320px) {
 
     .bicycle {
@@ -10,5 +28,6 @@
         width: 284px;
         margin-right: auto;
         margin-left: auto;
+        padding-bottom: 25px;
     }
 }
