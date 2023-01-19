@@ -1,0 +1,10 @@
+.footer__light-icon {
+    display: block;
+}
+
+@media screen and (max-width:320px) {
+    .footer__light-icon {
+        display: none;
+    }
+
+}

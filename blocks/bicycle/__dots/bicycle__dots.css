@@ -1,10 +1,15 @@
+.bicycle__dots {
+    display: none;
+}
+
+
 @media screen and (max-width: 320px) {
     .bicycle__dots {
         display: flex;
         gap: 5px;
         justify-content: center;
         position: relative;
-        top: -60px;
+        top: -164px;
     }
 
 }
