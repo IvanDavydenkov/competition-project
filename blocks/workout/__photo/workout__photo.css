@@ -1,0 +1,12 @@
+.workout__photo {
+    max-width: fit-content;
+    grid-area: workout__photo;
+}
+
+@media screen and (max-width:320px) {
+    .workout__photo {
+        max-width: 284px;
+        order: 1;
+    }
+
+}

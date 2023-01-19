@@ -1,5 +1,13 @@
 .workout__copyrights {
     display: flex;
     gap: 30px;
-    margin-top: 182px;
+    margin-top: 155px;
+    grid-area: workout__copyrights;
+}
+
+@media screen and (max-width:320px) {
+    .workout__copyrights {
+        order: 4;
+    }
+
 }

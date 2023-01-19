@@ -2,4 +2,6 @@
     .bicycle__item:not(:first-child) {
         display: none;
     }
+
+    .bicycle__item {}
 }
