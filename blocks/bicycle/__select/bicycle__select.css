@@ -1,0 +1,25 @@
+.bicycle__select {
+    width: 114px;
+    height: 30px;
+    border: 1px solid #E3E3E3;
+    border-radius: 2px;
+    padding: 8px 12px;
+    font-size: 11px;
+    line-height: 14px;
+    font-weight: 600;
+    position: relative;
+    outline: none;
+    display: none;
+    background: #F4F4F4;
+}
+
+.bicycle__select:hover {
+    cursor: pointer;
+}
+
+@media screen and (max-width:320px) {
+    .bicycle__select {
+        display: block;
+    }
+
+}

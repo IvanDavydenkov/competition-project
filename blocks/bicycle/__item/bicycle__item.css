@@ -1,0 +1,7 @@
+@media screen and (max-width: 320px) {
+    .bicycle__item:not(:first-child) {
+        display: none;
+    }
+
+    .bicycle__item {}
+}

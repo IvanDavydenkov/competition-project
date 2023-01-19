@@ -1,0 +1,6 @@
+.bicycle__dot {
+    width: 4px;
+    height: 4px;
+    background-color: #cacaca;
+    border-radius: 50%;
+}

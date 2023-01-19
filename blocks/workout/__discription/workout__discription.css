@@ -1,9 +1,19 @@
 .workout__discription {
-    margin-top: 50px;
+    margin-top: 45px;
     color: #e5e5e5;
     opacity: .7;
 
     font-weight: 400;
     font-size: 18px;
     line-height: 28px;
+    grid-area: workout__discription;
+}
+
+@media screen and (max-width:320px) {
+    .workout__discription {
+        font-size: 12px;
+        line-height: 18px;
+        order: 3;
+    }
+
 }

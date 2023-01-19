@@ -1,0 +1,10 @@
+.footer__moon-icon {
+    display: block;
+}
+
+@media screen and (max-width:320px) {
+    .footer__moon-icon {
+        display: none;
+    }
+
+}

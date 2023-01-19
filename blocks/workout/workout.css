@@ -1,6 +1,25 @@
 .workout {
-    display: flex;
-    justify-content: space-between;
-    padding: 150px 120px 120px 120px;
-    gap: 160px;
+    display: grid;
+    padding: 95px 120px 120px 120px;
+    grid-template-columns: 460px 580px;
+    grid-template-areas: 'workout__title workout__photo'
+        'workout__discription workout__photo'
+        'workout__copyrights workout__photo'
+    ;
+    gap: 0 160px;
+}
+
+@media screen and (max-width:320px) {
+    .workout {
+        display: flex;
+        flex-direction: column;
+        justify-content: baseline;
+        padding: 0;
+        max-width: 284px;
+        margin-right: auto;
+        margin-left: auto;
+        gap: 40px;
+        padding-bottom: 60px;
+    }
+
 }
