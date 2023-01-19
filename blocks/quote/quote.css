@@ -3,3 +3,16 @@
   justify-content: space-between;
   padding: 0 120px 120px 120px;
 }
+
+@media screen  and (max-width: 1200px) {
+  .quote {
+    padding: 0 60px 120px 60px;
+  }
+}
+
+@media screen  and (max-width: 768px) {
+  .quote {
+    padding: 0 30px 120px 30px;
+    flex-direction: column;
+  }
+}

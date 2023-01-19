@@ -5,4 +5,12 @@
   background: white;
   border-radius: 20px;
   box-shadow: -20px 60px 220px rgba(0, 0, 0, 0.44);
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__movement-image {
+    padding: 10.6px 27px;
+  }
 }

@@ -1,5 +1,25 @@
 .intro {
   display: flex;
-  justify-content: space-between;
   padding: 20px 0 120px 120px;
+  justify-content: space-between;
+}
+
+@media screen  and (max-width: 1200px) {
+  .intro {
+    padding: 20px 0 120px 60px;
+  }
+}
+
+@media screen  and (max-width: 768px) {
+  .intro {
+    padding: 20px 0 120px 30px;
+    flex-direction: column-reverse;
+  }
+}
+
+@media screen  and (max-width: 768px) {
+  .intro {
+    padding: 0 18px 120px 18px;
+    align-items: center;
+  }
 }

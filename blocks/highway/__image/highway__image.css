@@ -5,3 +5,10 @@
 .highway__image:last-child {
   margin-left: 40px;
 }
+
+@media screen and (max-width:768px) {
+  .highway__image:last-child {
+    display: none;
+  }
+  
+}

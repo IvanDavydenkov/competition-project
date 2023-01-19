@@ -6,11 +6,13 @@
   letter-spacing: 1px;
   color: #FFFFFF;
   text-decoration: none;
-  display: inline-block;
+  display: block;
   padding: 16px 47px;
   background: #24B47E;
   position: relative;
   border-radius: 4px;
+  max-width: 180px;
+  box-sizing: border-box;
 }
 
 .intro__button::before {
@@ -27,4 +29,10 @@
 
 .intro__button:hover:before {
   width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .intro__button {
+    max-width: none;
+  }
 }

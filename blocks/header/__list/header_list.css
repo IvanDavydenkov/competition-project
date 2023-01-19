@@ -4,3 +4,9 @@
   margin: 28px 0;
   align-items: center;
 }
+
+@media screen  and (max-width: 500px) {
+    .header__list {
+    display: none;
+  }
+}

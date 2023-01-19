@@ -1,4 +1,22 @@
 .intro__image {
   margin: 0 0 0 200px;
-  
+  width: calc(100% - 200px);
+  object-fit: cover;
+  box-sizing: content-box;
+  height: 100%;
+}
+
+@media screen and (max-width:  1200px) {
+  .intro__image {
+    margin: 0 0 0 20%;
+    width: calc(100% - 20%);
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__image {
+    margin: 0 0 0 30px;
+    width: calc(100% - 30px);
+    height: none;
+  }
 }

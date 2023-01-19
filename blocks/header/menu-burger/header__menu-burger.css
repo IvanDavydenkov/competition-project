@@ -1,0 +1,32 @@
+.header__menu-burger {
+  width: 22px;
+  height: 3px;
+  background: #FFFFFF;
+  margin-top: 33px;
+  margin-bottom: 35px;
+  position: relative;
+}
+
+.header__menu-burger::after {
+  content: "";
+  position: absolute;
+  width: 22px;
+  height: 3px;
+  background: #FFFFFF;
+  top: 8px;
+}
+
+.header__menu-burger::before {
+  content: "";
+  position: absolute;
+  width: 22px;
+  height: 3px;
+  background: #FFFFFF;
+  bottom: 8px;
+}
+
+@media screen and (min-width: 501px) {
+  .header__menu-burger {
+    display: none;
+  }
+}

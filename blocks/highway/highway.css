@@ -2,3 +2,15 @@
   padding: 0 0 60px 120px;
   overflow: hidden;
 }
+
+@media screen  and (max-width: 1200px) {
+  .highway {
+    padding: 0 0 60px 60px;
+  }
+}
+
+@media screen  and (max-width: 768px) {
+  .highway {
+    padding: 0 0 60px 30px;
+  }
+}

@@ -2,5 +2,28 @@
   min-height: 430px;
   position: absolute;
   top: 327px;
-  width: 100%;
+  max-width: 440px;
+  margin-right: 50px;
 }
+
+@media screen and (max-width: 1300px) {
+  .intro__movment-container {
+    max-width: 400px;
+    top: 280px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .intro__movment-container {
+    top: 151px;
+    max-width: 434px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .intro__movment-container {
+    max-width: 334px;
+  }
+}
+
+
