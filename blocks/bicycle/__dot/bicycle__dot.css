@@ -5,6 +5,10 @@
     border-radius: 50%;
 }
 
+.bicycle__dot:hover {
+    cursor: pointer;
+}
+
 @media screen and (max-width:1000px) {
     .bicycle__dot {
         width: 8px;
