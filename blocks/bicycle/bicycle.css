@@ -9,12 +9,6 @@
     }
 }
 
-/* @media screen and (max-width: 600px) {
-    .bicycle {
-        padding: 60px 60px;
-    }
-} */
-
 @media screen and (max-width: 500px) {
     .bicycle {
         padding: 60px 18px;
