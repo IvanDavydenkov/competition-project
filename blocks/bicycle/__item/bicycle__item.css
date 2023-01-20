@@ -1,9 +1,14 @@
-@media screen and (max-width: 320px) {
+.bicycle__item {
+    margin: 0;
+}
+
+
+@media screen and (max-width: 1000px) {
     .bicycle__item:not(:first-child) {
         display: none;
     }
 
-    /* .bicycle__item {} */
+
 }
 
 @media screen and (max-width: 1350px) {
