@@ -1,5 +1,6 @@
 .footer__moon-icon {
     display: block;
+    align-self: center;
 }
 
 .footer__moon-icon:hover {
