@@ -11,6 +11,14 @@
 
 @media screen  and (max-width: 768px) {
   .highway {
-    padding: 0 0 60px 30px;
+    padding: 0 30px 60px 30px;
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .highway {
+    padding: 0 18px 60px 18px;
   }
 }

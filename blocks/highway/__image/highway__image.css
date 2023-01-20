@@ -10,5 +10,8 @@
   .highway__image:last-child {
     display: none;
   }
-  
+
+  .highway__image {
+    margin-top: 40px;
+  }
 }
