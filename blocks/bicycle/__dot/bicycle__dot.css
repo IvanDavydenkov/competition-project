@@ -1,6 +1,6 @@
 .bicycle__dot {
-    width: 4px;
-    height: 4px;
+    width: 8px;
+    height: 8px;
     background-color: #cacaca;
     border-radius: 50%;
 }
@@ -11,8 +11,8 @@
 
 @media screen and (max-width:1000px) {
     .bicycle__dot {
-        width: 8px;
-        height: 8px;
+        width: 4px;
+        height: 4px;
     }
 
 }
