@@ -50,13 +50,14 @@
 @import url(../blocks/bicycle/__item/bicycle__item.css);
 @import url(../blocks/bicycle/__dots/bicycle__dots.css);
 @import url(../blocks/bicycle/__dot/bicycle__dot.css);
-@import url(../blocks/bicycle/_active/bicycle__dot_active.css);
 @import url(../blocks/bicycle/__select/bicycle__select.css);
 @import url(../blocks/bicycle/__option/bicycle__option.css);
 @import url(../blocks/bicycle/__select-wrapper/bicycle__select-wrapper.css);
 @import url(../blocks/bicycle/__link/bicycle__link.css);
 @import url(../blocks/bicycle/__filter-link/bicycle__filter-link.css);
-@import url(../blocks/bicycle/_active/bicycle__filters-item_active.css);
+@import url(../blocks/bicycle/__dot/_active/bicycle__dot_active.css);
+@import url(../blocks/bicycle/__item/_active/bicycle__filters-item_active.css);
+
 /* import  workout */
 @import url(../blocks/workout/workout.css);
 @import url(../blocks/workout/__copyright/workout__copyright.css);
