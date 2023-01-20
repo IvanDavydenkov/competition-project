@@ -1,8 +1,9 @@
 .highway__right-arrow {
   background: #434343;
-  padding: 17px 20px 17px 23px;
   border-radius: 50px;
+  padding: 17px 20px 17px 23px;
 }
+
 
 @media screen and (max-width: 768px) {
   .highway__right-arrow {
