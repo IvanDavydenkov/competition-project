@@ -61,6 +61,7 @@
 @import url(../blocks/workout/__title/workout__title.css);
 @import url(../blocks/workout/__photo/workout__photo.css);
 @import url(../blocks/workout/__link/workout__link.css);
+@import url(../blocks/workout/__container/workout__container.css);
 /* import footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__control-panel/footer__control-panel.css);
