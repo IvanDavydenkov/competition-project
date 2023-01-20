@@ -2,7 +2,13 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 32px;
-  margin: 0 0 9px 0;
+  margin: 20px 0 9px 0;
+}
+
+@media screen and (max-width: 768px) {
+  .quote__name {
+    margin: 0 0 9px 0;
+  }
 }
 
 @media screen and (max-width: 500px) {

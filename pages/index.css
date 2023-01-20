@@ -32,6 +32,8 @@
 @import url(../blocks/highway/highway.css);
 @import url(../blocks/highway/__image/highway__image.css);
 @import url(../blocks/highway/__slider/highway__slider.css);
+@import url(../blocks/highway/__left-arrow/highway__left-arrow.css);
+@import url(../blocks/highway/__right-arrow/highway__right-arrow.css);
 @import url(../blocks/highway/__swipe-left/highway__swipe-left.css);
 @import url(../blocks/highway/__swipe-right/highway__swipe-right.css);
 @import url(../blocks/highway/__text/highway__text.css);

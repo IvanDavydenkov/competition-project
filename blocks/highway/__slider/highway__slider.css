@@ -2,4 +2,5 @@
   display: flex;
   justify-content: space-between;
   order: 2;
+  grid-column: 1/4;
 }

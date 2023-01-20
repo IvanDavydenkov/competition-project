@@ -9,8 +9,7 @@
 
 @media screen and (max-width: 768px) {
   .highway__title {
-    padding-top: 40px;
-    border-top: 1px solid #e5e5e5;
+    margin: 0;
   }
 }
 

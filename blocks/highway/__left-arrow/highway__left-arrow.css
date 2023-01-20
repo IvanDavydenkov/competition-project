@@ -1,0 +1,13 @@
+.highway__left-arrow {
+  background: #434343;
+  padding: 17px 23px 17px 20px;
+  border-radius: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  .highway__left-arrow {
+    width: 4.5px;
+    height: 10px;
+    padding: 7px 10.5px 7px 9px;
+  }
+}
