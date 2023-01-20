@@ -2,6 +2,11 @@
     display: block;
 }
 
+.footer__moon-icon:hover {
+    cursor: pointer;
+    opacity: .7;
+}
+
 @media screen and (max-width:500px) {
     .footer__moon-icon {
         display: none;

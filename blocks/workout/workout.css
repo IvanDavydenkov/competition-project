@@ -22,18 +22,21 @@
         padding-bottom: 60px;
     }
 
-    @media screen and (max-width:950px) {
-        .workout {
-            padding: 120px 18px;
-        }
+}
+
+@media screen and (max-width:950px) {
+    .workout {
+        padding: 120px 18px;
+    }
+}
+
+
+
+@media screen and (max-width:320px) {
+    .workout {
+        max-width: 284px;
+        padding: 0;
+        padding-bottom: 60px;
     }
 
-
-
-    @media screen and (max-width:320px) {
-        .workout {
-            max-width: 284px;
-        }
-
-    }
 }

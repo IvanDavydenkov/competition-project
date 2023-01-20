@@ -11,16 +11,24 @@
     padding: 11px 20px;
     outline: none;
     margin-top: 50px;
+    transition: all .3s ease;
 }
 
 .footer__input::placeholder {
     color: white;
+    opacity: .7;
 }
 
-@media screen and (max-width:320px) {
+.footer__input:hover {
+    opacity: 1;
+    cursor: pointer;
+
+}
+
+
+@media screen and (max-width:650px) {
     .footer__input {
         margin-top: 40px;
-        /* width: 284px; */
         padding: 11px 20px;
         max-width: 284px;
     }

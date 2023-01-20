@@ -2,6 +2,11 @@
     display: block;
 }
 
+.footer__light-icon:hover {
+    cursor: pointer;
+    opacity: .7;
+}
+
 @media screen and (max-width:500px) {
     .footer__light-icon {
         display: none;
