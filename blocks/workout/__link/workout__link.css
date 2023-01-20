@@ -1,0 +1,8 @@
+.workout__link {
+    text-decoration: none;
+}
+
+.workout__link:hover {
+    cursor: pointer;
+    opacity: .7;
+}

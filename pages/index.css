@@ -53,6 +53,7 @@
 @import url(../blocks/bicycle/__select/bicycle__select.css);
 @import url(../blocks/bicycle/__option/bicycle__option.css);
 @import url(../blocks/bicycle/__select-wrapper/bicycle__select-wrapper.css);
+@import url(../blocks/bicycle/__link/bicycle__link.css);
 
 /* import  workout */
 @import url(../blocks/workout/workout.css);
@@ -61,6 +62,7 @@
 @import url(../blocks/workout/__discription/workout__discription.css);
 @import url(../blocks/workout/__title/workout__title.css);
 @import url(../blocks/workout/__photo/workout__photo.css);
+@import url(../blocks/workout/__link/workout__link.css);
 /* import footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__control-panel/footer__control-panel.css);
@@ -73,5 +75,5 @@
 @import url(../blocks/footer/__moon-icon/footer__moon-icon.css);
 @import url(../blocks/footer/__switch-icon/footer__switch-icon.css);
 @import url(../blocks/footer/__switch-box/footer__switch-box.css);
-
 @import url(../blocks/footer/__icons-box/footer__icons-box.css);
+@import url(../blocks/footer/__button/footer__button.css);

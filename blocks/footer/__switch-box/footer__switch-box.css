@@ -10,6 +10,11 @@
     /* padding-bottom: 30px; */
 }
 
+.footer__switch-box:hover {
+    cursor: pointer;
+    opacity: .7;
+}
+
 @media screen and (max-width:500px) {
     .footer__switch-box {
         display: none;

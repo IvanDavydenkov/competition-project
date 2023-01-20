@@ -7,6 +7,10 @@
     line-height: 22px;
 }
 
+.bicycle__name:hover {
+    opacity: .7;
+}
+
 @media screen and (max-width:850px) {
     .bicycle__name {
         position: relative;
