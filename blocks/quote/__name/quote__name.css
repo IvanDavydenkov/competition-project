@@ -4,3 +4,10 @@
   line-height: 32px;
   margin: 0 0 9px 0;
 }
+
+@media screen and (max-width: 500px) {
+  .quote__name {
+    font-size: 14px;
+    line-height: 22px;
+  }
+}

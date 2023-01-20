@@ -12,14 +12,13 @@
 
 @media screen  and (max-width: 768px) {
   .intro {
-    padding: 20px 0 120px 30px;
+    padding: 20px 30px 100px 30px;
     flex-direction: column-reverse;
   }
 }
 
-@media screen  and (max-width: 768px) {
+@media screen  and (max-width: 320px) {
   .intro {
-    padding: 0 18px 120px 18px;
-    align-items: center;
+    padding: 0 18px 80px 18px;
   }
 }

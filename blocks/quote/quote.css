@@ -12,7 +12,14 @@
 
 @media screen  and (max-width: 768px) {
   .quote {
-    padding: 0 30px 120px 30px;
+    padding: 0 30px 80px 30px;
     flex-direction: column;
   }
 }
+
+@media screen  and (max-width: 320px) {
+  .quote {
+    padding: 0 18px 80px 18px;
+  }
+}
+
