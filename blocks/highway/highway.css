@@ -5,24 +5,18 @@
 
 @media screen  and (max-width: 1200px) {
   .highway {
-    margin: 0 0 60px 60px;
+    margin: 0 0 60px 18px;
   }
 }
 
 @media screen  and (max-width: 768px) {
   .highway {
-    margin: 0 30px 80px 30px;
+    margin: 0 18px 80px 18px;
     display: grid; 
     grid-template-columns: auto 24px 24px;
     border-top: 1px solid #e5e5e5;
     padding-top: 40px;
     align-items: center;
     column-gap: 10px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .highway {
-    margin: 0 18px 80px 18px;
   }
 }

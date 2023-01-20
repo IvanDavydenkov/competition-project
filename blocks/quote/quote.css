@@ -6,20 +6,14 @@
 
 @media screen  and (max-width: 1200px) {
   .quote {
-    padding: 0 60px 120px 60px;
+    padding: 0 18px 120px 18px;
   }
 }
 
 @media screen  and (max-width: 768px) {
   .quote {
-    padding: 0 30px 80px 30px;
-    flex-direction: column;
-  }
-}
-
-@media screen  and (max-width: 320px) {
-  .quote {
     padding: 0 18px 80px 18px;
+    flex-direction: column;
   }
 }
 

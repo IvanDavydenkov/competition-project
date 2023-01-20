@@ -27,7 +27,7 @@
 @import url(../blocks/quote/__name/quote__name.css);
 @import url(../blocks/quote/__text/quote__text.css);
 @import url(../blocks/quote/__wrapper/quote__wrapper.css);
-@import url(../blocks/quote/_caption/quote__caption.css);
+@import url(../blocks/quote/__caption/quote__caption.css);
 /* import highway */
 @import url(../blocks/highway/highway.css);
 @import url(../blocks/highway/__image/highway__image.css);

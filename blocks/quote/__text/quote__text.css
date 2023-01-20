@@ -9,7 +9,7 @@
 
 @media screen and (max-width: 768px) {
   .quote__text {
-    margin: 40px 0;
+    margin: 40px 0 35px 0;
   }
 }
 
