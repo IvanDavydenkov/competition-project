@@ -1,3 +1,4 @@
 .bicycle__dot_active {
     background-color: #151515;
+    outline: 1px solid black;
 }
