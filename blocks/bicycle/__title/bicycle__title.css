@@ -21,7 +21,7 @@
     }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 400px) {
     .bicycle__title {
         font-size: 32px;
         line-height: 40px;
